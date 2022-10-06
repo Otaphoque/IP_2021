@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<universe universe="1">
+    <planet1>Kamino</planet1>
+    <gravity1>12</gravity1>
+    <planet2>Endor</planet2>
+    <gravity2>5</gravity2>
+</universe>
